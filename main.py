@@ -10,6 +10,11 @@ print(64+32)
 
 # 2.- Do the same as the question one but this time use variables instead of 
 # numbers.
+def addition(number1, number2):
+    return number1 + number2
+
+total_value = addition(64, 32)
+print(total_value)
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
 

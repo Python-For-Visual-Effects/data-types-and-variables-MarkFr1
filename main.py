@@ -17,6 +17,15 @@ number2 = 32
 print(number1+number2)
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
+material = "wood"
+animal = "woodchuck"
+verb = " chuck"
+
+
+
+print(
+" How much " + material + " would a " + animal + verb + " ? ")
+#My favorite tongue twister :)
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 

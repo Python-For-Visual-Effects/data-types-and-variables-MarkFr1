@@ -22,7 +22,6 @@ animal = "woodchuck"
 verb = " chuck"
 
 
-
 print(
 " How much " + material + " would a " + animal + verb + " ? ")
 #My favorite tongue twister :)
